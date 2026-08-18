@@ -1,34 +1,43 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212897843-7b7b5b4f-4b0b-4f95-9a5f-5d5c4e6d8f1c.gif"
-     width="280">
+<img src="./profile-banner.png" width="100%" alt="Nimisha Dwivedi - GitHub Profile">
+
+</div>
+
+<br>
+
+<div align="center">
 
 # 👋 Hi, I'm Nimisha Dwivedi
 
-### 🎓 MCA Student | 💻 Aspiring IT Professional | 📊 Data Analytics Enthusiast
+### 🎓 MCA Student | 💻 Aspiring IT Professional
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Learning+Web+Development;Exploring+Data+Analytics;Building+Practical+Projects;Turning+Ideas+Into+Solutions" />
+**Web Developer | Data Analytics Learner | Problem Solver**
+
+Turning ideas into functional projects 🚀
 
 </div>
 
 ---
 
-## 💡 About Me
+## 🌱 About Me
+
+Hi! I'm **Nimisha Dwivedi**, an MCA student and aspiring IT professional who enjoys learning new technologies and building practical projects.
 
 - 🎓 Currently pursuing **MCA**
-- 💻 Aspiring **IT Professional**
-- 🌐 Learning **Web Development**
-- 📊 Exploring **Data Analytics & Data Visualization**
-- 🚀 Building practical projects to strengthen my technical skills
-- 🧠 Improving my problem-solving and development skills
-- 📚 Always learning new technologies and tools
-- 💼 Open to learning, collaboration and career opportunities
+- 💻 Interested in **Web Development**
+- 📊 Exploring **Data Analytics**
+- 🌱 Currently improving my programming and development skills
+- 🧩 Enjoy solving programming and logical problems
+- 🚀 Building projects to gain practical development experience
+- 🔍 Always curious to explore new technologies and frameworks
+- 🎯 Working towards becoming a skilled IT professional
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Web Development
+### 💻 Programming & Development
 
 <p align="left">
 
@@ -38,15 +47,17 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 </p>
 
-### 📊 Data Analytics
+### 📊 Data & Analytics
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20Analytics-6C63FF?style=for-the-badge&logo=googleanalytics&logoColor=white">
 
 </p>
 
@@ -64,34 +75,47 @@
 
 ---
 
-## 🚀 Featured Project
-
-<div align="center">
+## 🚀 Featured Projects
 
 ### 🌐 Personal Portfolio
 
-A personal portfolio website showcasing my skills, projects,
-education and learning journey.
+A personal portfolio website showcasing my skills, projects, education and learning journey.
 
-**HTML • CSS • JavaScript**
-
-<a href="https://github.com/nimisha-dwivedi/portfolio">
-<img src="https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
-## 📊 GitHub Stats
+### 💻 Web Development Projects
+
+A collection of web development projects created while learning and practicing frontend development.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 📊 Data Analytics Projects
+
+Projects focused on learning data analysis, visualization and extracting meaningful insights from data.
+
+**Tech:** Python • Excel • Data Analytics
+
+---
+
+### 🧩 Programming & Problem Solving
+
+Practice projects and coding exercises focused on improving programming fundamentals, logical thinking and problem-solving skills.
+
+**Tech:** Python • Programming Fundamentals
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nimisha-dwivedi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-     height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=nimisha-dwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimisha-dwivedi&layout=compact&theme=tokyonight&hide_border=true"
-     height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimisha-dwivedi&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
@@ -107,7 +131,7 @@ education and learning journey.
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -117,35 +141,28 @@ education and learning journey.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Goals
 
-<div align="center">
-
-🌐 Web Development &nbsp; • &nbsp;
-📊 Data Analytics &nbsp; • &nbsp;
-💻 Project Building &nbsp; • &nbsp;
-🚀 Career Growth
-
-</div>
+- 🌱 Strengthen programming fundamentals
+- 💻 Build more real-world web projects
+- 📊 Improve Data Analytics skills
+- 🧠 Improve problem-solving abilities
+- 🚀 Learn modern development technologies
+- 💼 Prepare for opportunities in the IT industry
 
 ---
 
-## 🤝 Connect With Me
+## 📚 Learning Journey
 
-<div align="center">
-
-<a href="https://github.com/nimisha-dwivedi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Learn • Build • Grow
-
-⭐ Thanks for visiting my profile!
-
-</div>
+```text
+Programming
+     ↓
+Web Development
+     ↓
+Projects & Practice
+     ↓
+Data Analytics
+     ↓
+Problem Solving
+     ↓
+Real-World Applications
