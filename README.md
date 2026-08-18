@@ -2,6 +2,8 @@
 
 <img src="./profile-banner.png" width="100%" alt="Nimisha Dwivedi GitHub Profile">
 
+<br>
+
 # 👋 Hi, I'm **Nimisha Dwivedi**
 
 ### 🎓 MCA Student | 💻 Aspiring IT Professional
@@ -41,6 +43,8 @@
 
 </p>
 
+---
+
 ## 📊 Data Analytics
 
 <p align="left">
@@ -57,6 +61,8 @@
 
 </p>
 
+---
+
 ## 🌐 Web Development
 
 <p align="left">
@@ -69,7 +75,9 @@
 
 </p>
 
-## 🔧 Tools
+---
+
+## 🔧 Tools & Technologies
 
 <p align="left">
 
@@ -87,7 +95,7 @@
 
 # 🚀 Featured Projects
 
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
 A personal portfolio website showcasing my skills, education, projects and learning journey.
 
@@ -95,7 +103,7 @@ A personal portfolio website showcasing my skills, education, projects and learn
 
 ---
 
-### 💻 Web Development Projects
+## 💻 Web Development Projects
 
 Responsive web development projects created to strengthen frontend development and UI/UX skills.
 
@@ -103,7 +111,7 @@ Responsive web development projects created to strengthen frontend development a
 
 ---
 
-### 📊 Data Analytics Projects
+## 📊 Data Analytics Projects
 
 Projects focused on data analysis, visualization and extracting useful insights from datasets.
 
@@ -111,7 +119,7 @@ Projects focused on data analysis, visualization and extracting useful insights 
 
 ---
 
-### 🐍 Python Projects
+## 🐍 Python Projects
 
 Python-based projects focused on programming fundamentals, automation and practical applications.
 
@@ -119,7 +127,7 @@ Python-based projects focused on programming fundamentals, automation and practi
 
 ---
 
-### 🎓 Academic Projects
+## 🎓 Academic Projects
 
 Academic and college projects focused on practical implementation and learning.
 
@@ -131,9 +139,11 @@ Academic and college projects focused on practical implementation and learning.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nimisha-dwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=nimisha-dwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nimisha's GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimisha-dwivedi&layout=compact&theme=tokyonight&hide_border=true">
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimisha-dwivedi&layout=compact&theme=tokyonight&hide_border=true" alt="Nimisha's Top Languages">
 
 </div>
 
@@ -143,7 +153,7 @@ Academic and college projects focused on practical implementation and learning.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nimisha-dwivedi&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=nimisha-dwivedi&theme=tokyonight&hide_border=true" alt="Nimisha's GitHub Streak">
 
 </div>
 
@@ -153,7 +163,7 @@ Academic and college projects focused on practical implementation and learning.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimisha-dwivedi&theme=tokyo-night&hide_border=true&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimisha-dwivedi&theme=tokyo-night&hide_border=true&area=true" alt="Nimisha's Contribution Graph">
 
 </div>
 
