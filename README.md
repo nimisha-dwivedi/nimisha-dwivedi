@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Nimisha Dwivedi GitHub Profile">
+<img src="./profile-banner.jpg" width="100%" alt="Nimisha Dwivedi GitHub Profile">
 
 <br>
 
