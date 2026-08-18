@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./profile-banner.jpg" width="100%" alt="Nimisha Dwivedi GitHub Profile">
+<img src="./profile.png" width="100%" alt="Nimisha Dwivedi GitHub Profile">
 
-<br>
+<br><br>
 
 # 👋 Hi, I'm **Nimisha Dwivedi**
 
@@ -13,8 +13,6 @@
 **Turning ideas into functional solutions ✨**
 
 </div>
-
----
 
 # 💡 About Me
 
